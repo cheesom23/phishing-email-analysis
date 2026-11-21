@@ -9,6 +9,7 @@ I investigated a suspected credential-phishing email as a SOC analyst: I analyse
 **Severity:** High
 **My classification:** Highly suspicious, with confirmed user interaction and possible credential exposure
 
+
 ---
 
 ## Scenario
